@@ -1,0 +1,4 @@
+This is an awsome file I got from GitHub.com
+and Now I am going to commit directly from gitHub.com repository
+this is not something we would do normally
+it s just to trying simulate the situation where remote repository history is ahead of local repository history
